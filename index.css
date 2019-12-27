@@ -10,6 +10,7 @@
       border-bottom: 1px solid #c1c2bc;
       width: 11.5%;
       margin: 0 auto;
+      color: black;
   }
   /* ul{
     margin:0 auto;
@@ -19,14 +20,9 @@
       font-size: 30px;
       
   }
-  #links{
-    font-family:Raleway;
-    text-align: center;
-    margin-top: 15px;
-  }
 
   .nav{
-    margin-top: 1.5%;
+    margin-top: 0.5%;
   }
 
   a{
@@ -36,4 +32,10 @@
 
   a:hover{  
       color: black;
+      text-decoration: none;
+  }
+
+  div, a{
+    text-align:center;
+    
   }
