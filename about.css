@@ -59,10 +59,17 @@ img{
   }
 
   #main{
-      width: 400px;
+      width: 450px;
       
   }
 
-  #mainText{
+  .mainText{
+    text-align: justify;
+  }
+
+  #interests{
+    margin-top: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
     text-align: justify;
   }
