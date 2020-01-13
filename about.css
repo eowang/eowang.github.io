@@ -1,6 +1,7 @@
 img{
     width:70px;
     margin-top: 5px ;
+    margin-bottom: 50px ;
 }
 
 .container{
@@ -53,5 +54,15 @@ img{
   #header{
     font-weight: bold;
     text-transform: uppercase;
+    text-align: justify;
 
+  }
+
+  #main{
+      width: 400px;
+      
+  }
+
+  #mainText{
+    text-align: justify;
   }
